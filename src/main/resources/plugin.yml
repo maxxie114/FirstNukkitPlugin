@@ -1,0 +1,15 @@
+name: FirstNukkitPlugin
+description: My first plugin in java!
+
+main: FirstNukkitPlugin.Main
+version: "1.0"
+api: "1.0.0"
+load: POSTWORLD
+
+author: Potatoe
+website: https://github.com/PotatoeTrainYT/FirstNukkitPlugin
+
+commands:
+  hey:
+    description: Get sent hello
+    usage: "/hey"
